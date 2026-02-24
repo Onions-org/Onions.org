@@ -1,0 +1,2 @@
+{\n  \"name\": \"automated-content-generator\",\n  \"version\": \"1.0.0\",\n  \"scripts\": {\n    \"build\": \"node build.js\",
+    \"start\": \"node index.js\"\n  },\n  \"dependencies\": {\n    \"axios\": \"^0.21.1\",\n    \"express\": \"^4.17.1\"\n  }\n}
